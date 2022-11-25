@@ -6,21 +6,19 @@
 ## Technology
 * HTML5
 * CSS
-* javaScript
-
 ## Service used
 * Github
 
 ## Getting started
 * Clone the repository. <br>
-$ git clone https://github.com/Shift-ky/My-portifolio
+$ git clone https://github.com/Shift-ky/museu-nacional
 
 * Running application <br>
 $  Open the file index.html in your browser, Now it's time to test the blog.
 
 ## Links
 
-* Repository: https://github.com/Shift-ky/My-portifolio
+* Repository: https://github.com/Shift-ky
 
 ## Versioning
 1.0.0.0
