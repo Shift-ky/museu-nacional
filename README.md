@@ -1,7 +1,7 @@
 # museu-nacional
  Site criado para um museu fictício, em HTML e CSS
 
-![image](https://github.com/Shift-ky/imagens/blob/main/museu-nacional/museu-nacional.png?raw=true))
+![image](https://github.com/Shift-ky/imagens/blob/main/museu-nacional/museu-nacional.png?raw=true)
 
 ## Technology
 * HTML5
